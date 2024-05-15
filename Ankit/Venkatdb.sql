@@ -1,4 +1,4 @@
-
+NEW FILE
 -- change name of the databse
 
 alter database sample modify name = venkatdb
